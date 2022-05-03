@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../include/calc4.h"
+#include "calc.h"
 
 int main()
 {

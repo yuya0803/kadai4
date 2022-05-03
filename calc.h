@@ -1,6 +1,6 @@
-#ifndef _CALC4_H_
-#define _CALC4_H_
+#ifndef _CALC_H_
+#define _CALC_H_
 
 double calcsinx(int);
 
-#endif // _CALC4_H_
+#endif // _CALC_H_
